@@ -50,11 +50,11 @@
 
 ### 用户管理（UserManager）
 
-- hasBooked
+- hasBeenBooked
   - 用户是否曾预定过
-- addUser
+- addAUser
   - 添加用户
-- getUser
+- getAUser
   - 根据uid获得用户
   
 ### 价格计算（MoneyManager）
