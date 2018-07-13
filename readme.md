@@ -45,14 +45,14 @@
 
 - printIncome
   - 打印抬头
-  - 遍历每个场地流水信息，拼接、排序并打印
+  - 遍历每个场地流水信息，拼接、排序并打印流水信息
   - 打印结尾
 
 ### 用户管理（UserManager）
 
-- hasBooked
+- hasBeenBooked
   - 用户是否曾预定过
-- addUser
+- addAUser
   - 添加用户
-- getUser
+- getAUser
   - 根据uid获得用户
